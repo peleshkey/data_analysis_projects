@@ -5,5 +5,5 @@
 
 | Название проекта        | Описание проекта                       | Используемые библиотеки  |
 | :---------------------: | :------------------------------------: | :----------------------: |
-| [Анализ списка гипотез и А/В теста]([A:B:B_experiment_website.ipynb](https://github.com/peleshkey/stydy_projects/blob/educational_projects/A%3AB%3AB_experiment_website.ipynb))        | Описание проекта                       | Используемые библиотеки  |
+| [Анализ списка гипотез и А/В теста](https://github.com/peleshkey/stydy_projects/blob/educational_projects/A%3AB%3AB_experiment_website.ipynb)        | Описание проекта                       | Используемые библиотеки  |
 | :---------------------: | :------------------------------------: | :----------------------: |
