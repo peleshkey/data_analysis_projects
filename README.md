@@ -5,5 +5,5 @@
 
 | Название проекта        | Описание проекта                       | Используемые библиотеки  |
 | :---------------------: | :------------------------------------: | :----------------------: |
-| [AB тест](https://github.com/peleshkey/stydy_projects/edit/educational_projects/README.md#:~:text=B_experiment_website."Проект")        | Описание проекта                       | Используемые библиотеки  |
+| [Анализ списка гипотез и А/В теста](https://github.com/peleshkey/stydy_projects/tree/educational_projects?tab=readme-ov-file#:~:text=A%3AB%3AB_experiment_website.ipynb)        | Описание проекта                       | Используемые библиотеки  |
 | :---------------------: | :------------------------------------: | :----------------------: |
